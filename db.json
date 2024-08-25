@@ -9,12 +9,16 @@
       "text": "another comment about post 1"
     },
     {
-      "id": 1715333244678,
+      "id": "1715333244678",
       "text": "third comment"
     },
     {
-      "id": 1715334647102,
+      "id": "1715334647102",
       "text": "fourth comment"
+    },
+    {
+      "id": 1719827962297,
+      "text": "hello"
     }
   ]
 }
